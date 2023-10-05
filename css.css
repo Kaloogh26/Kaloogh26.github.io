@@ -169,17 +169,17 @@ dd{
         text-decoration: underline;
     }
     a:visited {
-        color: black;
+        color: white;
         background-color: transparent;
         text-decoration: underline;
     }
     a:hover {
-        color: black;
+        color: white;
         background-color: transparent;
         text-decoration: underline;
     }
     a:active {
-        color: aquamarine;
+        color: white;
         background-color: transparent;
         text-decoration: underline;
     }
