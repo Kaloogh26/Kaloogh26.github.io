@@ -34,7 +34,7 @@ b {
     color: white;
     font-size: 18px;
 }
-li {
+li.about {
     font-size: 26px;
     color: yellow;
 }
